@@ -8,3 +8,5 @@
 [Урок_18](https://kostrovv.github.io/lesson_18/ "Подключение шрифтов")
 
 [Урок_19](https://kostrovv.github.io/lesson_19/ "Подключение шрифтов. Верстка первого экрана.")
+
+[Урок_21](https://kostrovv.github.io/lesson_21/ "Описание")
