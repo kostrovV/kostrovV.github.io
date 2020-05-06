@@ -13,3 +13,5 @@
 
 [Урок_22](https://kostrovv.github.io/lesson_22/ "Описание")
 
+[Урок_24](https://kostrovv.github.io/lesson_24/ "Описание")
+
